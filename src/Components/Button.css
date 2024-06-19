@@ -1,0 +1,16 @@
+.input-search {
+    transition: border 0.3s ease;
+    min-width: 620px;
+    height: 35px;
+}
+
+.button-search {
+    transition: background-color 0.3s ease, color 0.3s ease;
+    height: 35px;
+}
+
+.button-search:hover {
+    background: none;
+    border: 1PX solid #0b13ae;
+    color: #0b13ae;
+}
